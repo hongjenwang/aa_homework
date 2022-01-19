@@ -75,10 +75,4 @@ class Map
 
 
 
-
-
-
-
-
-
 end
